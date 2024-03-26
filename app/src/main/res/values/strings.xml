@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TicTacToe - Kotlin</string>
+    <string name="app_name">TicTacToe</string>
     <string name="title_activity_game_screen">GameScreen</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
